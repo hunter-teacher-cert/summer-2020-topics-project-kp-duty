@@ -29,6 +29,9 @@ Students will create a Merkle Root from hash values based on 4 unique data input
 * [Suggested SHA256 Hash Generator](https://emn178.github.io/online-tools/sha256.html)
 
 ### Additional Resources for Teaching & Learning
+**Reading:**
+* [https://www.investopedia.com/terms/m/merkle-tree.asp](https://www.investopedia.com/terms/m/merkle-tree.asp)  - Short and sweet.
+
 **Videos:**
 * [Blockchain Basics Explained - Hashes with Mining and Merkle trees](https://www.youtube.com/watch?v=lik9aaFIsl4)  - A short and sweet explanation of Merkle tree. The activity is based off this video. Recommend that you watch this with students!
 * [The Blockchain & Bitcoin - Computerphile](https://www.youtube.com/watch?v=qcuc3rgwZAE)  - A bit more technical, recommended that the teacher watches it all the way through. Maybe good for HW.
