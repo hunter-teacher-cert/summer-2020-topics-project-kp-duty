@@ -30,12 +30,9 @@ Students will create a Merkle Root from hash values based on 4 unique data input
 
 ### Additional Resources for Teaching & Learning
 **Videos:**
-
-[Blockchain Basics Explained - Hashes with Mining and Merkle trees](https://www.youtube.com/watch?v=lik9aaFIsl4)  - A short and sweet explanation of Merkle tree. The activity is based off this video. Recommend that you watch this with students!
-
-[The Blockchain & Bitcoin - Computerphile](https://www.youtube.com/watch?v=qcuc3rgwZAE)  - A bit more technical, recommended that the teacher watches it all the way through. Maybe good for HW.
-
-[Bitcoin and cryptocurrency mining explained](https://www.youtube.com/watch?v=kZXXDp0_R-w)  - Focuses a little more on the cryptography of hash functions
+* [Blockchain Basics Explained - Hashes with Mining and Merkle trees](https://www.youtube.com/watch?v=lik9aaFIsl4)  - A short and sweet explanation of Merkle tree. The activity is based off this video. Recommend that you watch this with students!
+* [The Blockchain & Bitcoin - Computerphile](https://www.youtube.com/watch?v=qcuc3rgwZAE)  - A bit more technical, recommended that the teacher watches it all the way through. Maybe good for HW.
+* [Bitcoin and cryptocurrency mining explained](https://www.youtube.com/watch?v=kZXXDp0_R-w)  - Focuses a little more on the cryptography of hash functions
 
 
 ---
@@ -48,16 +45,13 @@ Proof of Work (Dumplings) -
 Given a coding framework to generate a hash value using SHA256, students will create a method to find a nonce value that generates a hash value with a given difficulty. The difficulty in Bitcoin mining is set by requiring a certain number of leading zeros in the final hash value for the block.
 
 ### Materials
-[ProofOfDumplings.java](ProofOfDumplings.java)  - Starter code for students.
-
-[ProofOfDumplingsSolution.java](ProofOfDumplingsSolution.java)  - A sample solution with timer to demonstrate runtime.
-
-[SHA256.java](SHA256.java)  - A class with the static method `calculateHash(data)` that students can use in a bigger project - i.e. - they can call `SHA256.calculateHash(data)`.
+* [ProofOfDumplings.java](ProofOfDumplings.java)  - Starter code for students.
+* [ProofOfDumplingsSolution.java](ProofOfDumplingsSolution.java)  - A sample solution with timer to demonstrate runtime.
+* [SHA256.java](SHA256.java)  - A class with the static method `calculateHash(data)` that students can use in a bigger project - i.e. - they can call `SHA256.calculateHash(data)`.
 
 ### Additional Resources for Teaching & Learning
 Video:
-
-[Blockchain Basics Explained - Hashes with Mining and Merkle trees](https://www.youtube.com/watch?v=lik9aaFIsl4)  - *Start at time 11:44 to help introduce this activity*
+* [Blockchain Basics Explained - Hashes with Mining and Merkle trees](https://www.youtube.com/watch?v=lik9aaFIsl4)  - *Start at time 11:44 to help introduce this activity*
 
 
 How to include SHA256 in a Java program:
