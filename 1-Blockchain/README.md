@@ -13,8 +13,10 @@ Students will demonstrate their understanding of blockchain technology by determ
 ## Background
 Blockchain technology is useful wherever we need a secure record of data that is distributed (not stored in one place or controlled by one party). There are many things that make it secure, but that is not the focus of this lesson. Students should focus on the why and the how in this lesson: *Why is blockchain technology useful? How can it improve how we do things?*
 
+
 Blockchain Decision Tree:
-<img src="Blockchain Descision Tree - from spectrum.ieee.org.jpeg" alt="Decision Tree" width=200/>
+
+<img src="Blockchain Descision Tree - from spectrum.ieee.org.jpeg" alt="Decision Tree" width=500/>
 
 
 # How does Blockchain work?
