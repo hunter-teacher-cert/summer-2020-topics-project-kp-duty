@@ -9,7 +9,7 @@ Blockchain technology is useful wherever we need a secure record of data that is
 * Blockchain
 * Block
 * Hash algorithm and value
-* 
+* Decentralized & Distributed networks
 
 ---
 
